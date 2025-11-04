@@ -34,7 +34,7 @@ This project was a major exercise in **refactoring**—transforming a basic assi
 1.  **Prerequisites:** You must have Java Development Kit (JDK) installed on your system.
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/muhammedulusoy18/Java-Library-CLI.git](https://github.com/muhammedulusoy18/Java-Library-CLI.git)
+    git clone https://github.com/muhammedulusoy18/Java-Library-CLI.git
     ```
 3.  **Navigate to the project directory:**
     ```bash
